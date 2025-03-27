@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "820786480816",
+    "project_id": "societygateapp",
+    "storage_bucket": "societygateapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820786480816:android:382f95744bb5dd348a1d75",
+        "android_client_info": {
+          "package_name": "com.example.society_gate_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820786480816-koej9fc3dr9j1jtkguecvr0nkoovoal0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.society_gate_app",
+            "certificate_hash": "fd9fae7aa804504eb9771d528e11c2cdb30ffc05"
+          }
+        },
+        {
+          "client_id": "820786480816-vj38btasj2jhpiidfjgknuoqpf311ran.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLKpTn9OhwcxkQoUa8cMQuw5_IopGMyrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820786480816-vj38btasj2jhpiidfjgknuoqpf311ran.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
